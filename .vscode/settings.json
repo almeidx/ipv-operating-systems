@@ -2,5 +2,15 @@
   "files.associations": {
     ".clang-format": "yaml",
     "stdio.h": "c"
-  }
+  },
+  "cSpell.words": [
+    "abcvalc",
+    "aleatorio",
+    "dvald",
+    "dvalue",
+    "gopts",
+    "goptsx",
+    "valc",
+    "xfkd"
+  ]
 }
