@@ -1,0 +1,4 @@
+# Ficheiro de configuração de ....
+# Mais comentários..
+parametro1 valor1
+parametro2 valor2

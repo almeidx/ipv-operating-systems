@@ -1,0 +1,1 @@
+Esta mensagem vai para o descritor 1 = ficheiro, em vez do monitor

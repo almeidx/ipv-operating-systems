@@ -1,0 +1,21 @@
+total 204
+-rwxr-xr-x 1 almeida almeida 17008 Nov  9 11:14 copia
+-rw-r--r-- 1 almeida almeida  1209 Nov  9 11:18 copia.c
+-rwxr-xr-x 1 almeida almeida 16792 Nov  9 11:16 copiaio
+-rw-r--r-- 1 almeida almeida   232 Nov  9 11:18 copiaio.c
+-rwxr-xr-x 1 almeida almeida 16920 Nov  9 11:33 copiaio1
+-rw-r--r-- 1 almeida almeida  1238 Nov  9 11:33 copiaio1.c
+-rwxr--r-- 1 almeida almeida    15 Nov  9 11:15 mcc
+-rwxr-xr-x 1 almeida almeida 16736 Nov  9 11:38 mexec
+-rw-r--r-- 1 almeida almeida   336 Nov  9 11:38 mexec.c
+-rwxr-xr-x 1 almeida almeida 16960 Nov  9 11:37 msystem
+-rw-r--r-- 1 almeida almeida   476 Nov  9 11:37 msystem.c
+-rw-r--r-- 1 almeida almeida    20 Nov  9 11:17 origem.txt
+-rwxr-xr-x 1 almeida almeida 16976 Nov  9 11:19 redirin
+-rw-r--r-- 1 almeida almeida  1027 Nov  9 11:19 redirin.c
+-rwxr-xr-x 1 almeida almeida 16912 Nov  9 11:18 redirout
+-rw-r--r-- 1 almeida almeida  1091 Nov  9 11:23 redirout.c
+-rwxr-xr-x 1 almeida almeida 16960 Nov  9 11:40 redirout1
+-rw-r--r-- 1 almeida almeida  1139 Nov  9 11:39 redirout1.c
+-rw-r--r-- 1 almeida almeida    67 Nov  9 11:33 saida.txt
+-rw-r--r-- 1 almeida almeida     0 Nov  9 11:40 saida1.txt
