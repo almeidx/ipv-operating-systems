@@ -1,7 +1,8 @@
 {
   "files.associations": {
     ".clang-format": "yaml",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "types.h": "c"
   },
   "cSpell.words": [
     "abcvalc",
