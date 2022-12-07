@@ -5,13 +5,18 @@
     "stdio.h": "c",
     "types.h": "c",
     "unistd.h": "c",
-    "signal.h": "c"
+    "signal.h": "c",
+    "shmprodcons.h": "c",
+    "sem_funcoes.h": "c",
+    "ipc.h": "c",
+    "stdlib.h": "c"
   },
   "cSpell.words": [
     "abcvalc",
     "aleatorio",
     "dvald",
     "dvalue",
+    "ésima",
     "gopts",
     "goptsx",
     "valc",
